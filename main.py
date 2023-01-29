@@ -18,7 +18,10 @@ bmi_as_int = int(bmi)
 print(bmi_as_int)
 
 
-
+#height = float(height)
+#weight = int(weight)
+#result = weight / (height * height)
+#print(int(result))
 
 
 
